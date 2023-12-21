@@ -1,0 +1,21 @@
+{
+  "name": "palver-tranquility",
+  "displayName": "Palver's Tranquility",
+  "description": "Solid dark theme that doesn't stress your eyes with overly bright syntax.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Palver's Tranquility",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Palver's Tranquility-color-theme.json"
+      }
+    ]
+  }
+}
