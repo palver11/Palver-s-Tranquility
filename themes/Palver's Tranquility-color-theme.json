@@ -774,7 +774,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#3174aa"
 			}
 		},
 		{
@@ -809,7 +809,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -931,7 +931,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -1072,7 +1072,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -1184,7 +1184,7 @@
 				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#78a7d1"
 			}
 		},
 		{
@@ -1201,8 +1201,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
-			}
+				"foreground": "#ff0000" }
 		},
 		{
 			"scope": [
@@ -1255,7 +1254,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#dbb45f"
 			}
 		},
 		{
